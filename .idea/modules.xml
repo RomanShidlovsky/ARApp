@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ARApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ARApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ARApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ARApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ARApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ARApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ARApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ARApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ARApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ARApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/ARApp.sceneform.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/ARApp.sceneform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/ARApp.sceneform.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/ARApp.sceneform.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/ARApp.sceneform.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/ARApp.sceneform.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/ARApp.sceneform.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformsrc/sceneform/ARApp.sceneform.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformux/ux/ARApp.sceneformux.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformux/ux/ARApp.sceneformux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformux/ux/ARApp.sceneformux.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformux/ux/ARApp.sceneformux.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformux/ux/ARApp.sceneformux.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformux/ux/ARApp.sceneformux.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sceneformux/ux/ARApp.sceneformux.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sceneformux/ux/ARApp.sceneformux.unitTest.iml" />
+    </modules>
+  </component>
+</project>
